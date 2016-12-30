@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<meta charset="utf-8"/>
+		<title>PROJET INTEGRATION</title>
+		<link rel="stylesheet" type="text/css" href="projet Kévin et Jean-François.css">
+	</head>
+
+	<body>
+		
+	<img src="images/image-17.png" class="image" alt ="photo site"/>
+<nav>
+	<ul>
+		<li><a href="#">Accueil</a></li>
+		<li><a href="#">Blog</a></li>
+		<li><a href="#">Contact</a></li>
+	</ul>
+</nav>
+		
+
+<section>
+	
+
+	<article>
+		
+
+		<img src="images/logocodeman.jpg" class="logo" width="800" height="500"  align="center" alt ="logo coderman"/>
+
+		<h1> Coder comme CoderMan </h1>
+		
+		<h2> Viens découvrir le monde du codage </h2>
+		
+		<p>
+		
+		Coderman a 23 ans et il nous explique ici comment il est devenu un bidouilleur de code pour son plus grand plaisir. Il a découvert la programmation par lui-même et nous livre ici son témoignage et le fruit de sa jeune expérience.
+
+		Tout le monde ne partagera pas sa passion avant autant d’intensité. Nous espérons cependant que nombreux seront les enfants et leurs parents à tomber par hasard sur cet article (d’autant que cette sensibilisation est toujours absente de l’école d’aujourd’hui). Et, qui sait, peut-être que cela suscitera de nouvelles vocations  ?
+
+		Programmer est, sans aucun doute, la chose la plus gratifiante intellectuellement que j’ai jamais réalisée. Programmer m’a appris que la vie se devait d’être amusante, remplie de créativité et vécue au maximum de son intensité. Programmer m’a appris que tout était possible  ; je peux faire ce qui me plait en utilisant seulement mon esprit.
+
+		Programmer m’a également enseigné qu’apprendre est drôle et ludique. Cela m’a montré que plus vous en savez, plus vous comprenez et êtes acteur du monde qui vous entoure. Programmer m’a confirmé qu’une vie en apprentissage continu est une meilleure vie à vivre. Programmer m’a révélé qui je suis au fond de moi, m’a donné une bonne estime de moi et m’a continuellement aidé à arriver à mes fins.
+
+		Je me sens extrêmement chanceux d’avoir eu la volonté et l’opportunité d’apprendre à programmer tôt dans la vie. Et si mes méthodes ne sont certainement pas les meilleures pour tout le monde, elles ont marché pour moi.
+
+		Je n’ai aucun regret.
+
+		Alors je me suis dit que j’allais partager mes méthodes avec vous, en espérant qu’un débutant lise cet article et en tire quelque chose.
+
+		Si vous n’avez pas le temps de le parcourir retenez avant tout ceci  : l’important est de s’amuser.
+
+		Bien que plus jeune, j’ai découvert les rudiments informatiques sur des ordinateurs MS-DOS Windows grâce aux jeux vidéos, mon véritable apprentissage a commencé le jour où j’ai installé un système GNU/Linux sur mon ordinateur personnel.
+
+		Ce n’est pas fondamental d’utiliser ou non Windows (ou Mac OS X) sur votre machine, il y a ainsi beaucoup de programmeurs qui travaillent sous système d’exploitation propriétaires. Mais GNU/Linux est imbattable pour apprendre.
+
+		Contrairement aux idées reçues, les développeurs ne font pas que pisser du code. On tape quelque chose, ce qui déclenche autre chose. Il y aurait des entrées et des sorties. Cette vision est erronée.
+
+		La programmation est un mode de vie
+
+		Les programmeurs sont obsédés par la connaissance. Ils utilisent cette obsession pour alimenter leur soif d’apprendre, de découvrir et de créer. Voilà la vraie définition d’un programmeur.
+
+		</p>
+	
+	</article>
+
+
+</section>
+
+
+<footer>
+	
+<p> <img src="images/logo-facebook.png" width="200" height="150" alt="facebook" /> <img src="images/twitter.png" width="300" height="200" alt="twitter"/> <img src="images/linkedin-logo.png"  width="200" height="150" alt="linkedin"/>
+</p>
+
+
+
+
+
+
+</footer>
+
+
+
+</body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	</body>

@@ -1,0 +1,116 @@
+
+
+blockquote, q {
+		quotes:none;
+}
+
+blockquote:before, blockquote:after, q:before, q:after {
+		content: '';
+		content: none;
+
+}
+
+table {
+
+		border-collapse: collapse;
+		border-spacing: 0px;
+}
+
+body {
+		font-family: 'OpenSans', sans-serif;
+		background:url("../fond-bleu.jpg") center fixed; /* l'image de fond s'est affichée quand elle a été déplacée dans le dossier ou figure la feuille html ? a voir pourquoi */
+		
+		background-size: cover;
+}
+
+#container {
+		
+		font-size: 32px;
+		margin: 128px auto;
+		width: 768px;
+		
+
+}
+
+h1 {
+		text-align: center;
+		color: #d4f442;
+		text-shadow: 0 1px 1px rgba(0, 0, 0, .4);
+		margin-bottom: 32px;
+
+}
+
+.calculator,.number, .buttons {
+		
+		border-radius: 6px;
+
+}
+
+.calculator {
+
+		margin: 0 auto;
+		background-color: #454545;
+		border: 1px solid #3D3D3D;
+		width: 279px;
+		box-shadow: 0 7px 10px rgba(0, 0, 0, .8);
+}
+
+.haut {
+
+		padding: 10px;
+		text-align: center;
+		
+		border-radius: 6px 6px 0px 0px;
+}
+
+input.number {
+
+		text-align: right;
+		background-color: #0AE286;
+		border: none;
+		color: #f01a09;
+		font-size: 30px;
+		padding: 12px;
+		width: 290px;
+		border-radius: 6px 6px 6px 6px;
+		box-shadow: inset 0 0 10px 4px rgba(0, 200, 0, .6);
+}
+
+.corps {
+
+		padding: 0 220px;
+}
+
+.buttons {
+
+		cursor: default;
+		text-align: center;
+		padding: 7px 12px;
+		font-size: 20px;
+		text-shadow: 0 -1px 1px #000;
+		color: #dbf009;
+		font-weight: bold;
+		display: inline-block;
+		border-top: 1px solid #777;
+		width: 50px;
+		background: linear-gradient(#5F5F5F 0%, #404040 100%);
+		box-shadow: 0 2px 6px rgba(0, 0, 0, .8);
+		margin-bottom: 10px;
+
+}
+
+
+.buttons:hover {
+
+		background: :linear-gradient(#79D144 0%, #50A61F 100%);
+		border-top: 1px solid #9ADD73;
+		text-shadow: 0 -1px 1px #008000;
+}
+
+.buttons:active {
+
+		box-shadow: none;
+
+}
+
+
